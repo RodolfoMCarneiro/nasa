@@ -17,6 +17,8 @@ Por ser um problema relativamente aberto, onde não existem regras para tratativ
 
 Todas as respostas estão sendo armazenadas em um arquivo chamado Resposta_desafio.log durante o processamento.
 
+Para a realização desse desafio, foi utilizada a [Sandbox da Hortonworks](https://www.cloudera.com/downloads/hortonworks-sandbox.html). Por praticidade, o usuário na sandbox para execução foi o raj_ops e os datasets foram importados para o hdfs no diretório /user/raj_ops/desafio_semantix/
+
 ### Resolução 1
 
 No arquivo de nome <ins>resolucaoSimplificada</ins>, existe uma abordagem direta onde simplesmente é considerado que todos os dados estejam dentro da forma esperada, como descrito na proposta do desafio.
